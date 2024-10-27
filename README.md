@@ -13,7 +13,7 @@ JavaScript
 Installation
 To run this application locally, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/your-username/react-blog-app.git.
+Clone this repository to your local machine using git clone (https://github.com/Sunnythakur847583/Social-Media-ReactJS-Bootstrap.git).
 Navigate into the project directory using cd react-blog-app.
 Install dependencies by running npm install.
 Start the development server with npm start.
